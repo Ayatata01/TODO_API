@@ -1,0 +1,18 @@
+Nama Proyek: "Todo List API"
+
+Deskripsi Proyek: Proyek ini akan menjadi sebuah API yang memungkinkan pengguna untuk membuat daftar tugas atau aktivitas yang perlu dilakukan. Pengguna dapat menambahkan tugas baru, menandai tugas sebagai selesai, mengedit tugas, dan menghapus tugas. Data tugas akan disimpan dalam database MySQL.
+
+Fitur:
+
+Menambahkan tugas baru ke dalam database.
+Mendapatkan daftar tugas yang perlu dilakukan beserta statusnya (selesai/belum selesai).
+Menandai tugas sebagai selesai dalam database.
+Mengedit tugas yang sudah ada dalam database.
+Menghapus tugas dari database.
+Endpoint:
+
+GET /todos - Mendapatkan daftar tugas
+POST /todos - Menambahkan tugas baru
+PUT /todos/:id - Menandai tugas sebagai selesai atau mengedit tugas yang sudah ada
+DELETE /todos/:id - Menghapus tugas
+Semoga ide proyek ini bisa membantu Anda!
