@@ -1,5 +1,4 @@
 # TODO_API
-## Toko-baju-api
 ### Cara Penggunaan
 1. clone github
 2. tambah file .env pada root folder 
