@@ -1,4 +1,6 @@
 # TODO_API
+### Deskripsi API
+Proyek ini akan menjadi sebuah API yang memungkinkan pengguna untuk membuat daftar tugas atau aktivitas yang perlu dilakukan. Pengguna dapat menambahkan tugas baru, menandai tugas sebagai selesai, mengedit tugas, dan menghapus tugas. Data tugas akan disimpan dalam database MySQL.
 ### Cara Penggunaan
 1. clone github
 2. tambah file .env pada root folder 
