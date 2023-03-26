@@ -9,12 +9,14 @@ Proyek ini akan menjadi sebuah API yang memungkinkan pengguna untuk membuat daft
 5. jalankan perintah npm start
 6. tabel database akan di build secara otomatis
 
+catatan : jangan lupa buat database dan nyalankan mysql
+
 ### Teknologi yang digunakan
 1. node js/express
 2. mySQL/sequelize
 3. json web token (jwt)
 
-Penggunaan dapat dilihat di link berikut : 
+Penggunaan Endpoint dapat dilihat di link berikut : 
 (https://documenter.getpostman.com/view/21857409/2s93RL2H5q)
 
 AUTHOR : Yoga Rizya Pratama (yogarizya.p@gmail.com)
