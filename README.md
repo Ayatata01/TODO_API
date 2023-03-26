@@ -7,10 +7,12 @@ Proyek ini akan menjadi sebuah API yang memungkinkan pengguna untuk membuat daft
 3. isikan DB_NAME = database name,DB_USERNAME= database username, DB_PASSWORD = database password, SECRET = random string
 4. jalankan perintah npm install
 5. jalankan perintah npm start
+6. tabel database akan di build secara otomatis
 
 ### Teknologi yang digunakan
 1. node js/express
-2. mySQL
+2. mySQL/sequelize
+3. json web token (jwt)
 
 Penggunaan dapat dilihat di link berikut : 
 (https://documenter.getpostman.com/view/21857409/2s93RL2H5q)
