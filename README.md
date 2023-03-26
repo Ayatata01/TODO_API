@@ -19,4 +19,4 @@ catatan : jangan lupa buat database dan nyalankan mysql
 ### Dokumentasi penggunaan dapat dilihat di link berikut : 
 (https://documenter.getpostman.com/view/21857409/2s93RL2H5q)
 
-AUTHOR : Yoga Rizya Pratama (yogarizya.p@gmail.com)
+AUTHOR : Yoga Rizya Pratama (yogarizya.pratama@gmail.com)
