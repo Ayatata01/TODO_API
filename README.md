@@ -16,7 +16,7 @@ catatan : jangan lupa buat database dan nyalankan mysql
 2. mySQL/sequelize
 3. json web token (jwt)
 
-Penggunaan Endpoint dapat dilihat di link berikut : 
+### Dokumentasi penggunaan dapat dilihat di link berikut : 
 (https://documenter.getpostman.com/view/21857409/2s93RL2H5q)
 
 AUTHOR : Yoga Rizya Pratama (yogarizya.p@gmail.com)
